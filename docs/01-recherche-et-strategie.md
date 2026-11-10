@@ -2,6 +2,8 @@
 
 Date : 10 novembre 2026. Budget : 100 $. Statut global : **recherche faite, rien de construit, rien de dépensé, rien de déployé.**
 
+> **Mise à jour.** Les estimations de revenus Apify de ce document sont remplacées par les mesures de `02-mesure-du-catalogue-apify.md`, nettement moins favorables. L'utilisateur réside en Suisse, non en France. La section sur la publication X décrit le compte en général : une autre analyse indique que le post porte sur un scanner de memecoins Solana, ce que je n'ai pas pu vérifier.
+
 Légende des statuts : **[V]** vérifié sur source primaire ou presse reconnue · **[D]** déclaré par un tiers, non audité · **[E]** estimation de ma part · **[NV]** non vérifié.
 
 ## Limites de cette recherche
